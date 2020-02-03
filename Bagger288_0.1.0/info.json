@@ -1,0 +1,10 @@
+{
+  "name": "Bagger288",
+  "version": "0.1.0",
+  "title": "Bagger288 Bucket Wheel Excavator",
+  "author": "Phisher",
+  "homepage": "TODO",
+  "dependencies": ["base >= 0.16.0"],
+  "factorio_version": "0.16",
+  "description": "Adds The Bagger288."
+}
